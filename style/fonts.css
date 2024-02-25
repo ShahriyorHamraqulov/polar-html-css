@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url(../fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'Roboto-Medium';
+  src: url(../fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'HindMadurai-SemiBold';
+  src: url(../fonts/HindMadurai-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: 'HindMadurai-Regular';
+  src: url(../fonts/HindMadurai-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'HindMadurai-Medium';
+  src: url(../fonts/HindMadurai-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'HindMadurai-Bold';
+  src: url(../fonts/HindMadurai-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'Fredoka-Regular';
+  src: url(../fonts/Fredoka-Regular.ttf);
+}

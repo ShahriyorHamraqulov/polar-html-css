@@ -1,0 +1,91 @@
+@import url(../fonts.css);
+
+.main-bottom__info {
+  background: var(--light_pink);
+}
+
+.main-bottom__menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-bottom__img {
+  transform: translateY(50px);
+  border-radius: 30px;
+}
+
+.main-right__link {
+  color: var(--black);
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.main-right__icon {
+  align-items: center;
+  color: var(--dark_pink);
+  background: var(--white);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.main-right__icon2 {
+  margin: 17px 0;
+}
+
+.main-right__buttons {
+  margin-top: 47px;
+}
+
+.main-right__btn1 {
+  margin-right: 30px;
+}
+
+.button {
+  background: var(--black);
+  padding: 5px 10px;
+  font-size: 30px;
+  color: var(--white);
+  border-radius: 10px;
+}
+
+.main-bottom__reviews {
+  margin-top: 191px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-reviews__title {
+  color: #000;
+  font-family: var(--RM);
+  text-align: center;
+  font-size: 44px;
+  line-height: 51px;
+  max-width: 522px;
+  width: 100%;
+}
+
+.main-reviews__text {
+  display: flex;
+  margin-top: 28px;
+}
+
+.main-text__input {
+  border-radius: 5px 0 0 5px;
+  border: 0;
+  background: var(--white);
+  padding: 29px 439px 29px 23px;
+}
+
+.main-text__btn {
+  background: var(--dark_pink);
+  padding: 28px 46px 28px 46px;
+  border-radius: 5px;
+  border: 0;
+  color: #FFF;
+  font-family: var(--RM);
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+}
